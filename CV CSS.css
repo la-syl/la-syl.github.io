@@ -186,6 +186,7 @@ section {
 #education {
 	display:flex;
 	flex-direction: row;
+	justify-content: space-between;
 }
 
 #UOC {
